@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm HaiDer 👋</h1>
-<h2 align="center"> Programmer </h2>
+<h1 align="center">Hi there</h1>
+<h2 align="center"> Developer </h2>
 
 <p align="center"><b> Languages and Tools:</p>
 <p align="center">
@@ -22,8 +22,4 @@
 
 
 
-<p align="center">
-  
-   <img src="https://github-readme-stats.vercel.app/api?username=HaiDer129&show_icons=true&theme=tokyonight">
 
-</p>
